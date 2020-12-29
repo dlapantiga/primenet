@@ -1,0 +1,1 @@
+<?php $this->load->view('header',$title);$this->load->view($content, $sign);$this->load->view('footer', $hotel, $arr)?>
